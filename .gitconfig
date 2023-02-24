@@ -1,0 +1,25 @@
+[user]
+	name = xxxxxx
+	email = xxxxxx@xxx.com
+[alias]
+	st = status
+	co = checkout
+	br = branch
+	mg = merge
+	ci = commit
+	df = diff
+	ds = diff --staged
+	dt = difftool
+	mt = mergetool
+	cfg = config
+	cfgg = config --global
+	cfgs = config --system
+	cfgl = config --local
+	ps = push
+	sts = status -s
+[core]
+	autocrlf = false
+	quotepath = false
+[color]
+	ui = auto
+	branch = auto
